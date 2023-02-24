@@ -293,6 +293,14 @@ margin: 0 4px;
     width:90% ;
     padding: 5px;
   }
+  ._1hs5 {
+    width: 100px;
+    height: 100px;
+    top: 48%;
+    left: 3px;
+    position: absolute;
+    background: red;
+  }
 }
 @media screen and (max-width: 311px) {
   .header-heading {
