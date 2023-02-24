@@ -248,6 +248,14 @@ margin: 0 4px;
   .header-heading {
     font-size: 4.5rem;
   }
+  ._1hs5 {
+    width: 100px;
+    height: 100px;
+    top: 63%;
+    left: 3px;
+    position: absolute;
+    background: red;
+  }
 
 }
 @media screen and (max-width: 546px) {
